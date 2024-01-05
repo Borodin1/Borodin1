@@ -11,4 +11,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Borodin1&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 You can connect with me via [mail](mailto:borodinag1902@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/borodin-alexander/)
+
