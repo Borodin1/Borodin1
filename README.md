@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on:<br>- 🌐 Web development projects that challenge and inspire.<br>- 🤝 Open source initiatives fostering innovation and community growth.<br>- 📈 Opportunities to enhance user interfaces and overall user satisfaction.<br> <br>🌱 I’m currently learning Back-End development with Nest.js, a powerful Node.js framework.
+👯 I’m looking to collaborate on:<br>- 🌐 Web development projects that challenge and inspire.<br>- 🤝 Open source initiatives fostering innovation and community growth.<br>- 📈 Opportunities to enhance user interfaces and overall user satisfaction.<br> 
 
 
 ## 🌐 Socials:
